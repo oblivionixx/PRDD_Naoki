@@ -1,3 +1,3 @@
-print "--------------------------------------------------------\n"
-print "Tomorrow you will get 795 points in Toeic, no Yakiniku\n"
-print "--------------------------------------------------------"
+print "----------------------------------------------\n"
+print "Tomorrow you will get 795 points in Toeic, no Yakiniku"
+print "----------------------------------------------\n"
