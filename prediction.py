@@ -1,3 +1,3 @@
 print "----------------------------------------------\n"
-print "Tomorrow you will get 795 points in Toeic, no Yakiniku"
+print "Tomorrow you will get 800 points in Toeic, Yakiniku banzai."
 print "----------------------------------------------\n"
